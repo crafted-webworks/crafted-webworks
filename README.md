@@ -47,17 +47,6 @@ Every project is built around what you actually need: clear structure, fast page
 
 ---
 
-## 🌍 Featured Work
-
-| Project | Type | Live |
-|---|---|---|
-| 🏡 **Advaith Homes** | CMS website | [advaithhomes.co.uk](https://advaithhomes.co.uk/) |
-| 🪑 **The Cane House** | E-commerce store | [thecanehouse.co.uk](https://thecanehouse.co.uk/) |
-
-👉 See more on the [Projects page](https://crafted-webworks.github.io/pages/projects.html) and [live demos](https://crafted-webworks.github.io/pages/demos.html).
-
----
-
 ## 🧭 Websites For Every Kind Of Business
 
 `Business` · `Portfolio` · `Personal Brand` · `Agency` · `Restaurant` · `Real Estate` · `Healthcare` · `Education` · `Retail` · `E-Commerce` · `SaaS` · `Startup` · `Events` · `Non-Profit` · `Professional Services` · `Local Business` · `Booking` · `Directory` · `Web Portal` · `Custom Web App`
